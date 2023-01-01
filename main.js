@@ -37,7 +37,7 @@
 	}
 
 	function remv(){
-	document.calcul.result.value="0";
+	document.calcul.result.value="";
 	}
 
 	function equal(){
