@@ -1,5 +1,8 @@
  @import url('https://fonts.googleapis.com/css2?family=VT323&display=swap'); 
-
+::selection {
+  color: grey;
+  background: blue;
+}
 .clear{
     background-color: rgb(41, 233, 41);
 }
